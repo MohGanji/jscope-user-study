@@ -1,5 +1,5 @@
 # User Study Materials for JScope 
 
-Find JScope [here](#TODO: acm-dl virtual machine).
+Find JScope [here](http://#TODO:acm-dl-virtual-machine).
 
-Related paper: [Code Coverage Criteria for Asynchronous Programs](#TODO: doi).
+Related paper: [Code Coverage Criteria for Asynchronous Programs](http://#TODO:-doi).
